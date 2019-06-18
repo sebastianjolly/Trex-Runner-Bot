@@ -1,7 +1,7 @@
 # Trex-Runner-Bot
-This is a Google Chrome Trex bot I made.
+This is the Google Chrome T-Rex game.
 
 # How To Use:
-Open up the index.html file with Google Chrome
+1) Clone or download the project files.
 
-Enjoy either playing the game normally or by activating the bot!
+2) Open up the index.html file with Google Chrome.
